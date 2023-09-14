@@ -1,1 +1,2 @@
-bsedata==0.5.4
+openai==0.27.8
+gnewsclient==1.12
